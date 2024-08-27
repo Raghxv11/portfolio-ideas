@@ -353,6 +353,10 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Jiseeeh                    | ![jiseeeh](https://github.com/user-attachments/assets/e15090ec-a4a2-49b4-9f02-07a127e7bd7a)                                                                               | [Jiseeeh's Portfolio](https://jiseeeh.codes)                                                                  | [GitHub](https://github.com/Jiseeeh/portfolio-revamp)                        | Next.js, TailwindCSS, GSAP, Vercel, PostHog                                                                    |
 | Ghulam Ahmed               | ![Ghulam's Portfolio Screenshot](https://github.com/user-attachments/assets/7bb42754-c642-4031-98a2-f3cf12351947)                                                         | [Ghulam's Portfolio](https://gahmed.com)                                                                      | [GitHub](https://github.com/theghulam)                                       | Astro, Solid.js, TypeScript, TailwindCSS                                                                       |
 
+| Raghav Bansal               |            ![homepage](https://github.com/user-attachments/assets/ccfb92e6-da43-4bc2-ab1b-d5ff7774d09d)
+                                            | [Portfolio]([https://raghavb.web.app](https://raghavb.web.app/))                                                                      | [GitHub]([https://github.com/Raghxv11](https://github.com/Raghxv11/Portfolio_website))                                       | ReactJS, TailwindCSS                                                                       |
+
+
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
